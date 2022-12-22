@@ -1,0 +1,3 @@
+/home/lgw/c++/OKVS/build/CMakeFiles/main.dir
+/home/lgw/c++/OKVS/build/CMakeFiles/edit_cache.dir
+/home/lgw/c++/OKVS/build/CMakeFiles/rebuild_cache.dir
