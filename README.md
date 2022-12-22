@@ -9,7 +9,7 @@ su (enter your password)
 cmake --install out/build/linux 
 ```
 
-# Call SilentOT
+# Call OKVS
 ```shell
 git clone https://github.com/ShallMate/OKVS.git
 cd OKVS
