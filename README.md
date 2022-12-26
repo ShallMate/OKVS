@@ -1,5 +1,10 @@
 # How to use LibOTE with OKVS on Ubuntu
 ```shell
+git clone https://github.com/ridiculousfish/libdivide.git
+cd libdivide
+cmake .
+make -j
+sudo make install
 git clone --recursive https://github.com/osu-crypto/libOTe.git
 cd libOTE
 mkdir -p out/build/linux
